@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMII</string>
+    <string name="compute">Compute</string>
+    <string name="number1">Enter first number</string>
+    <string name="number2">Enter second number</string>
+    <string name="result">%s of %s and %s is %s</string>
+    <string name="number_error">WTF</string>
+    <string name="addition">sum</string>
+    <string name="division">division</string>
+    <string name="multiplication">product</string>
+    <string name="soustraction">substraction</string>
+</resources>

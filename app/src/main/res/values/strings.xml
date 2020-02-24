@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DMII</string>
+    <string name="number1">Entrez le premier nombre</string>
+    <string name="number2">Entrez le deuxième nombre</string>
+    <string name="compute">Calculer</string>
+    <string name="result">La %s de %s et %s est %s</string>
+    <string name="number_error">N\'importe quoi</string>
+    <string name="addition">addition</string>
+    <string name="soustraction">soustraction</string>
+    <string name="multiplication">multiplication</string>
+    <string name="division">division</string>
+    <string name="dialog_permission_title">Permission obligatoire</string>
+    <string name="dialog_permission_msg"> Nous avons besoin de la permission afin de déterminer votre position GPS </string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+</resources>
